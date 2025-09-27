@@ -1,4 +1,8 @@
-![Aurexion Labs Logo](https://aurexionlabs.com/assets/logo.png)
+<p align="left">
+<a href="https://aurexionlabs.com">
+        <img src="assets/logo.png" alt="Aurexion Labs Frontend" width="300">
+    </a>
+</p>
 
 <h1>Automated & Semi-Discretionary Trading Tools</h1>
 
