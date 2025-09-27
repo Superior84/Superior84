@@ -1,4 +1,10 @@
-## Hi there 👋
+![Aurexion Labs Logo](https://aurexionlabs.com/assets/logo.png)
+
+# Aurexion Labs
+High-quality algo strategies and indicators for Quantower.
+
+[Visit the site](https://aurexionlabs.com)
+
 
 <!--
 **Superior84/Superior84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
