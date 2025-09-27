@@ -9,7 +9,7 @@
 <p>Automated, risk-managed tools in Quantower for professional traders.</p>
 
 
-[Visit the site] at: [https://www.aurexionlabs.com](https://www.aurexionlabs.com)
+[https://www.aurexionlabs.com](https://www.aurexionlabs.com)
 
 
 <!--
