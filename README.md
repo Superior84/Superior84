@@ -1,6 +1,6 @@
 <p align="left">
 <a href="https://aurexionlabs.com">
-        <img src="https://aurexionlabs.com/assets/logo.png" alt="Aurexion Labs Frontend" width="800">
+        <img src="https://aurexionlabs.com/assets/logo.png" alt="Aurexion Labs Frontend" width="700">
     </a>
 </p>
 
