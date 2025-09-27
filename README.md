@@ -1,9 +1,8 @@
 ![Aurexion Labs Logo](https://aurexionlabs.com/assets/logo.png)
 
-# Aurexion Labs
-<h1>Automated & Semi-Discretionary Trading Tools<h1>
+<h1>Automated & Semi-Discretionary Trading Tools</h1>
 
-Automated, risk-managed tools in Quantower for professional traders.
+<p>Automated, risk-managed tools in Quantower for professional traders.</p>
 
 
 [Visit the site](https://aurexionlabs.com)
