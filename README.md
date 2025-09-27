@@ -1,7 +1,10 @@
 ![Aurexion Labs Logo](https://aurexionlabs.com/assets/logo.png)
 
 # Aurexion Labs
-High-quality algo strategies and indicators for Quantower.
+<h1>Automated & Semi-Discretionary Trading Tools<h1>
+
+Automated, risk-managed tools in Quantower for professional traders.
+
 
 [Visit the site](https://aurexionlabs.com)
 
